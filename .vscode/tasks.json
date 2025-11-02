@@ -4,9 +4,9 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Run PHP 1768",
+            "label": "Run TS 398",
             "type": "shell",
-            "command": "php 1768.php",
+            "command": "ts-node 398.ts",
             "problemMatcher": [],
             "presentation": {
                 "reveal": "always",
